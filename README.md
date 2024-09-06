@@ -2,17 +2,13 @@
 
 **`Un Cientifico de datos con un background académico en negocios`**
 
-<br>Soy Ingeniero Comercial y tengo una gran pasión por la Ciencia de Datos. <br>🔍 ¿Qué hago?<br><br>Automatización de Datos: Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>Desarrollo Web: Creo páginas corporativas atractivas y funcionales para empresas.<br>Análisis de Datos: Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>Machine Learning: Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost.<br>
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rrdiegoisaac)
+<br>Soy Ingeniero Comercial y me especializo en Ciencia de Datos. <br>🔍 ¿Qué hago?<br><br>**Análisis de Datos:** Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>**Machine Learning:** Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost, para resolver problemas tanto supervisados como no supervisados.<br>**Automatización de Datos:** Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>**Desarrollo Frontend:** Creo páginas corporativas atractivas y funcionales para representar los insights e interactuar con los datos.<br>
 
 # 💻 Tech Stack:
 
 <p align="left"> 
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <!-- R -->
@@ -82,8 +78,7 @@
 </p>
 
 
-
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rrdiegoisaac&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rrdiegoisaac&icon=0&color=0)](https://visitcount.itsvg.in) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rrdiegoisaac)
