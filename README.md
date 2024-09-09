@@ -141,7 +141,7 @@
 <img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Un análisis de más de 130.000 eventos sísmicos ocurridos en Chile desde el año 2000 hasta 2024, en el que se identifican tendencias significativas mediante <strong>estadística, análisis gráfico y geográfico.</strong></p>
+<p>Utilizando <strong>Web Scraping</strong> obtuve el histórico de <strong>35 delitos</strong> ocurridos en Chile, para su posterior limpieza y análisis de los datos. También realicé <strong>Frontend</strong> utilizando <strong>Streamlit</strong> para la visualización interactiva de los datos</p>
 </div>
 </td>
 <!-- ANÁLISIS DE CLIENTES UTILIZANDO CLUSTERS Y MARKETING -->
