@@ -80,91 +80,88 @@
 
 ## 🌟 Proyectos seleccionados
 
-<!-- ANÁLISIS DE TERREMOTOS EN CHILE -->
 <table>
-<tr>
-<td style="vertical-align: top; width: 50%;">
-<h3 align="center">
-  Análisis de terremotos en Chile<br>
-  <strong>2000-2024</strong>
-</h3>
-<div align="center">
-<a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/7190/7190566.png" width="250" alt="Análisis de terremotos en Chile"></a>
-<p>
-<a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/rrdiegoisaac/ChileTerremotos/tree/main" target="_blank">
-<img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Un análisis de más de 130.000 eventos sísmicos ocurridos en Chile desde el año 2000 hasta 2024, en el que se identifican tendencias significativas mediante <strong>estadística, análisis gráfico y geográfico.</strong></p>
-</div>
-</td>
-<!-- ANÁLISIS DE PROPIEDADES DE PORTAL INMOBILIARIO -->
-<td style="vertical-align: top; width: 50%;">
-<h3 align="center">
-  Proyecto: Propiedades de Portal Inmobiliario<br>
-  <strong>ETL + EDA + ML</strong>
-</h3>
-<div align="center">
-<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/271600718_5331597240201751_8511558428269952821_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OXx4oq7HcHMQ7kNvgGd8juT&_nc_ht=scontent-scl2-1.xx&oh=00_AYD1YyOlZ482N3-yDlrI9Ia0htbZ5lqoI0GrQ3NRDtKytg&oe=66E43A13" width="250" alt="Análisis de Propiedades de Portal Inmobiliario"></a>
-<p>
-<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
-<img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>A través de <strong>Web Scraping</strong> obtuve datos de propiedades en Portal Inmobiliario para su posterior limpieza, análisis estadístico, visual y geográfico, y luego apliqué algoritmos de regresión utilizando técnicas de <strong>Machine Learning.</strong></p>
-</div>
-</td>
-</tr>
-</table> <!-- Cierre de tabla -->
-
-<!-- ANÁLISIS DE DELITOS EN CHILE -->
-<table>
-<tr>
-<td style="vertical-align: top; width: 50%;">
-<h3 align="center">
-  Estudio de delitos en Chile<br>
-  <strong>WS y Frontend para el <strong>CEAD</strong></strong>
-</h3>
-<div align="center">
-<a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prevencion.png/640px-Prevencion.png" width="250" alt="Análisis de delitos en Chile"></a>
-<p>
-<a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/rrdiegoisaac/ChileTerremotos/tree/main" target="_blank">
-<img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Utilizando <strong>Web Scraping</strong> obtuve el histórico de <strong>35 delitos</strong> ocurridos en Chile, para su posterior limpieza y análisis de los datos. También realicé <strong>Frontend</strong> utilizando <strong>Streamlit</strong> para la visualización interactiva de los datos</p>
-</div>
-</td>
-<!-- ANÁLISIS DE CLIENTES UTILIZANDO CLUSTERS Y MARKETING -->
-<td style="vertical-align: top; width: 50%;">
-<h3 align="center">
-  Análisis de clientes<br>
-  <strong>Utilizando Clustering</strong>
-</h3>
-<div align="center">
-<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E12AQFCjOmkZpqQuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697735432361?e=2147483647&v=beta&t=lsfK3XLDAW0UYsTsPmEm8CZjDB0GIuOandojl58TowY" width="250" alt="Análisis de Clusters"></a>
-<p>
-<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
-<img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Utilizando algoritmos de <strong>aprendizaje no supervisado</strong> obtuve insights significativos utilizando datos de clientes, de esta manera el equipo de Marketing pudo tomar decisiones significativas</p>
-</div>
-</td>
-</tr>
-</table> <!-- Cierre de tabla -->
+  <tr>
+    <!-- ANÁLISIS DE TERREMOTOS EN CHILE -->
+    <td style="vertical-align: top; width: 50%;">
+      <h3 align="center">
+        Análisis de terremotos en Chile<br>
+        <strong>2000-2024</strong>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/7190/7190566.png" width="250" alt="Análisis de terremotos en Chile"></a>
+        <p>
+          <a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://github.com/rrdiegoisaac/ChileTerremotos/tree/main" target="_blank">
+            <img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Un análisis de más de 130.000 eventos sísmicos ocurridos en Chile desde el año 2000 hasta 2024, en el que se identifican tendencias significativas mediante <strong>estadística, análisis gráfico y geográfico.</strong></p>
+      </div>
+    </td>
+    <!-- ANÁLISIS DE PROPIEDADES DE PORTAL INMOBILIARIO -->
+    <td style="vertical-align: top; width: 50%;">
+      <h3 align="center">
+        Proyecto: Propiedades de Portal Inmobiliario<br>
+        <strong>ETL + EDA + ML</strong>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/271600718_5331597240201751_8511558428269952821_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OXx4oq7HcHMQ7kNvgGd8juT&_nc_ht=scontent-scl2-1.xx&oh=00_AYD1YyOlZ482N3-yDlrI9Ia0htbZ5lqoI0GrQ3NRDtKytg&oe=66E43A13" width="250" alt="Análisis de Propiedades de Portal Inmobiliario"></a>
+        <p>
+          <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+            <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>A través de <strong>Web Scraping</strong> obtuve datos de propiedades en Portal Inmobiliario para su posterior limpieza, análisis estadístico, visual y geográfico, y luego apliqué algoritmos de regresión utilizando técnicas de <strong>Machine Learning.</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- ANÁLISIS DE DELITOS EN CHILE -->
+    <td style="vertical-align: top; width: 50%;">
+      <h3 align="center">
+        Estudio de delitos en Chile<br>
+        <strong>WS y Frontend para el <strong>CEAD</strong></strong>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prevencion.png/640px-Prevencion.png" width="250" alt="Análisis de delitos en Chile"></a>
+        <p>
+          <a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://github.com/rrdiegoisaac/ChileTerremotos/tree/main" target="_blank">
+            <img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Utilizando <strong>Web Scraping</strong> obtuve el histórico de <strong>35 delitos</strong> ocurridos en Chile, para su posterior limpieza y análisis de los datos. También realicé <strong>Frontend</strong> utilizando <strong>Streamlit</strong> para la visualización interactiva de los datos</p>
+      </div>
+    </td>
+    <!-- ANÁLISIS DE CLIENTES UTILIZANDO CLUSTERS Y MARKETING -->
+    <td style="vertical-align: top; width: 50%;">
+      <h3 align="center">
+        Análisis de clientes<br>
+        <strong>Utilizando Clustering</strong>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E12AQFCjOmkZpqQuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697735432361?e=2147483647&v=beta&t=lsfK3XLDAW0UYsTsPmEm8CZjDB0GIuOandojl58TowY" width="250" alt="Análisis de Clusters"></a>
+        <p>
+          <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+            <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>Utilizando algoritmos de <strong>aprendizaje no supervisado</strong> obtuve insights significativos utilizando datos de clientes, de esta manera el equipo de Marketing pudo tomar decisiones significativas</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
