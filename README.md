@@ -1,8 +1,8 @@
 # Hola, soy Diego 👋
 
-**`Científico de Datos con un Background Académico en Negocios`**
-
-<br>Soy Ingeniero Comercial especializado en Ciencia de Datos. <br><br>🔍 <strong>¿Qué hago?</strong><br><br>**Análisis de Datos:** Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>**Machine Learning:** Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost, para resolver problemas tanto supervisados como no supervisados.<br>**Automatización de Datos:** Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>**Desarrollo Frontend:** Creo páginas corporativas atractivas y funcionales para representar los insights e interactuar con los datos.<br>
+<br>Soy Ingeniero Comercial especializado en Ciencia de Datos. <br><br>
+[**`Te invito a revisar mis proyectos ⬇️`**](https://github.com/rrdiegoisaac#-proyectos-seleccionados)<br><br>
+🔍 <strong>¿Qué hago?</strong><br><br>**Análisis de Datos:** Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>**Machine Learning:** Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost, para resolver problemas tanto supervisados como no supervisados.<br>**Automatización de Datos:** Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>**Desarrollo Frontend:** Creo páginas corporativas atractivas y funcionales para representar los insights e interactuar con los datos.<br>
 
 ## 💻 Tech Stack:
 
