@@ -1,10 +1,10 @@
 # Hola, soy Diego 👋
 
-**`Un Cientifico de datos con un background académico en negocios`**
+**`Científico de Datos con un Background Académico en Negocios`**
 
-<br>Soy Ingeniero Comercial y me especializo en Ciencia de Datos. <br>🔍 ¿Qué hago?<br><br>**Análisis de Datos:** Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>**Machine Learning:** Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost, para resolver problemas tanto supervisados como no supervisados.<br>**Automatización de Datos:** Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>**Desarrollo Frontend:** Creo páginas corporativas atractivas y funcionales para representar los insights e interactuar con los datos.<br>
+<br>Soy Ingeniero Comercial especializado en Ciencia de Datos. <br><br>🔍 <strong>¿Qué hago?</strong><br><br>**Análisis de Datos:** Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>**Machine Learning:** Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost, para resolver problemas tanto supervisados como no supervisados.<br>**Automatización de Datos:** Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>**Desarrollo Frontend:** Creo páginas corporativas atractivas y funcionales para representar los insights e interactuar con los datos.<br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="left"> 
   <!-- Python -->
@@ -76,6 +76,46 @@
     <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="selenium" width="40" height="40"/> 
   </a>
 </p>
+
+
+## 🌟 Proyectos seleccionados
+
+<!-- ANÁLISIS DE TERREMOTOS EN CHILE -->
+<table width="100%">
+<tr>
+<td style="vertical-align: top; width: 50%;">
+<h3 align="center">Análisis de terremotos en Chile (2000-2024)</h3>
+<div align="center">
+<a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/7190/7190566.png" width="250" alt="Análisis de terremotos en Chile"></a>
+<p>
+<a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/rrdiegoisaac/ChileTerremotos/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Un análisis de más de 130.000 eventos sísmicos ocurridos en Chile desde el año 2000 hasta 2024, en el que se identifican tendencias significativas mediante <strong>estadística, análisis gráfico y geográfico.</strong></p>
+</div>
+</td>
+<!-- ANÁLISIS DE PROPIEDADES DE PORTAL INMOBILIARIO -->
+<td style="vertical-align: top; width: 50%;">
+<h3 align="center">Análisis de Propiedades de Portal Inmobiliario</h3> 
+<div align="center">
+<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/271600718_5331597240201751_8511558428269952821_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OXx4oq7HcHMQ7kNvgGd8juT&_nc_ht=scontent-scl2-1.xx&oh=00_AYD1YyOlZ482N3-yDlrI9Ia0htbZ5lqoI0GrQ3NRDtKytg&oe=66E43A13" width="250" alt="Análisis de Propiedades de Portal Inmobiliario"></a>
+<p>
+<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+<img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A través de <strong>Web Scraping</strong> se obtuvieron datos de propiedades en Portal Inmobiliario para su posterior limpieza, análisis estadístico, visual y geográfico, y luego se aplicaron algoritmos de regresión utilizando técnicas de <strong>Machine Learning.</strong></p>
+</div>
+</td>
+</tr>
+</table>
 
 
 ---
