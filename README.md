@@ -84,7 +84,10 @@
 <table width="100%">
 <tr>
 <td style="vertical-align: top; width: 50%;">
-<h3 align="center">Análisis de terremotos en Chile (2000-2024)</h3>
+<h3 align="center">
+  Análisis de terremotos en Chile<br>
+  <strong>2000-2024</strong>
+</h3>
 <div align="center">
 <a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/7190/7190566.png" width="250" alt="Análisis de terremotos en Chile"></a>
 <p>
@@ -100,7 +103,10 @@
 </td>
 <!-- ANÁLISIS DE PROPIEDADES DE PORTAL INMOBILIARIO -->
 <td style="vertical-align: top; width: 50%;">
-<h3 align="center">Análisis de Propiedades de Portal Inmobiliario</h3> 
+<h3 align="center">
+  Análisis de Propiedades de Portal Inmobiliario<br>
+  <strong>ETL + EDA + ML</strong>
+</h3>
 <div align="center">
 <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/271600718_5331597240201751_8511558428269952821_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OXx4oq7HcHMQ7kNvgGd8juT&_nc_ht=scontent-scl2-1.xx&oh=00_AYD1YyOlZ482N3-yDlrI9Ia0htbZ5lqoI0GrQ3NRDtKytg&oe=66E43A13" width="250" alt="Análisis de Propiedades de Portal Inmobiliario"></a>
 <p>
@@ -111,7 +117,7 @@
 <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>A través de <strong>Web Scraping</strong> se obtuvieron datos de propiedades en Portal Inmobiliario para su posterior limpieza, análisis estadístico, visual y geográfico, y luego se aplicaron algoritmos de regresión utilizando técnicas de <strong>Machine Learning.</strong></p>
+<p>A través de <strong>Web Scraping</strong> obtuve datos de propiedades en Portal Inmobiliario para su posterior limpieza, análisis estadístico, visual y geográfico, y luego apliqué algoritmos de regresión utilizando técnicas de <strong>Machine Learning.</strong></p>
 </div>
 </td>
 </tr>
