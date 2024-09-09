@@ -129,12 +129,12 @@
         <strong>WS y Frontend para el <strong>CEAD</strong></strong>
       </h3>
       <div align="center">
-        <a href="https://github.com/rrdiegoisaac/ChileTerremotos" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prevencion.png/640px-Prevencion.png" width="250" alt="Análisis de delitos en Chile"></a>
+        <a href="https://github.com/rrdiegoisaac/analisis-delictual-chile" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prevencion.png/640px-Prevencion.png" width="250" alt="Análisis de delitos en Chile"></a>
         <p>
-          <a href="https://github.com/rrdiegoisaac/ChileTerremotos/blob/main/JupyterNotebook/terremotos2000-2024.ipynb" target="_blank">
+          <a href="https://github.com/rrdiegoisaac/analisis-delictual-chile/blob/main/scraping/ScrapingCEAD.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://github.com/rrdiegoisaac/ChileTerremotos/tree/main" target="_blank">
+          <a href="https://github.com/rrdiegoisaac/analisis-delictual-chile" target="_blank">
             <img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
