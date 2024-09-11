@@ -78,7 +78,7 @@
 </p>
 
 
-## 🌟 Proyectos seleccionados
+## 🌟 Proyectos seleccionados (Estoy en proceso de publicarlos)
 
 <table>
   <tr>
