@@ -157,7 +157,7 @@
             <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Utilizando algoritmos de <strong>aprendizaje no supervisado</strong> obtuve insights significativos utilizando datos de clientes, de esta manera el equipo de Marketing pudo tomar decisiones significativas</p>
+        <p>Realicé <strong>Feature Engineering</strong> y <strong> Algoritmos de Aprendizaje no Supervisado</strong>.De esta manera segmenté a los clientes en grupos para tomar decisiones más precisas</p>
       </div>
     </td>
   </tr>
