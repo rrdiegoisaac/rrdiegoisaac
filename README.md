@@ -148,12 +148,12 @@
         <strong>Utilizando Clustering</strong>
       </h3>
       <div align="center">
-        <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E12AQFCjOmkZpqQuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697735432361?e=2147483647&v=beta&t=lsfK3XLDAW0UYsTsPmEm8CZjDB0GIuOandojl58TowY" width="250" alt="Análisis de Clusters"></a>
+        <a href="https://github.com/rrdiegoisaac/customer-analysis" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E12AQFCjOmkZpqQuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697735432361?e=2147483647&v=beta&t=lsfK3XLDAW0UYsTsPmEm8CZjDB0GIuOandojl58TowY" width="250" alt="Análisis de Clusters"></a>
         <p>
-          <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+          <a href="https://github.com/rrdiegoisaac/customer-analysis/blob/main/JupyterNotebook/PersonalityAnalysis.ipynb" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
+          <a href="https://github.com/rrdiegoisaac/customer-analysis" target="_blank">
             <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
