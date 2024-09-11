@@ -138,7 +138,7 @@
             <img src="https://img.shields.io/badge/MAIN%20PAGE-9f9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Utilizando <strong>Web Scraping</strong> obtuve el histórico de <strong>35 delitos</strong> ocurridos en Chile, para su posterior limpieza y análisis de los datos. También realicé <strong>Frontend</strong> utilizando <strong>Streamlit</strong> para la visualización interactiva de los datos</p>
+        <p>Utilizando <strong>Web Scraping</strong> obtuve el histórico de <strong>35 delitos</strong> ocurridos en Chile, para su posterior limpieza y análisis de los datos. También realicé <strong>Frontend</strong> utilizando <strong>Streamlit</strong> para la visualización interactiva de los datos. </p>
       </div>
     </td>
     <!-- ANÁLISIS DE CLIENTES UTILIZANDO CLUSTERS Y MARKETING -->
@@ -157,7 +157,7 @@
             <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Realicé <strong>Feature Engineering</strong> y <strong> Algoritmos de Aprendizaje no Supervisado</strong>.De esta manera segmenté a los clientes en grupos para tomar decisiones más precisas</p>
+        <p>Realicé <strong>Feature Engineering</strong> y <strong> Algoritmos de Aprendizaje no Supervisado</strong>.De esta manera segmenté a los clientes en grupos para tomar decisiones más precisas. </p>
       </div>
     </td>
   </tr>
