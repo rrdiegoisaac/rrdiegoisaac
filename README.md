@@ -157,7 +157,7 @@
             <img src="https://img.shields.io/badge/MAIN%20PAGE-CCD406?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
-        <p>Realicé <strong>Feature Engineering</strong> y <strong> Algoritmos de Aprendizaje no Supervisado</strong>.De esta manera segmenté a los clientes en grupos para tomar decisiones más precisas. </p>
+        <p>Realicé <strong>Feature Engineering</strong> y <strong> Algoritmos de Aprendizaje no Supervisado</strong>. De esta manera segmenté a los clientes en grupos para tomar decisiones más precisas. </p>
       </div>
     </td>
   </tr>
