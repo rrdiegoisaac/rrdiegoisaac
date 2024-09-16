@@ -108,7 +108,7 @@
         <strong>ETL + EDA + ML</strong>
       </h3>
       <div align="center">
-        <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/271600718_5331597240201751_8511558428269952821_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=OXx4oq7HcHMQ7kNvgGd8juT&_nc_ht=scontent-scl2-1.xx&oh=00_AYD1YyOlZ482N3-yDlrI9Ia0htbZ5lqoI0GrQ3NRDtKytg&oe=66E43A13" width="250" alt="Análisis de Propiedades de Portal Inmobiliario"></a>
+        <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxzW8WZhviWMfOCgWojhnHA7ZQM6oJ7o0GQ&s" width="250" alt="Análisis de Propiedades de Portal Inmobiliario"></a>
         <p>
           <a href="https://github.com/rrdiegoisaac/analisis-datos-inmobiliarios" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-059BDC?style=for-the-badge&logo=github&logoColor=black">
