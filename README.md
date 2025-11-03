@@ -1,8 +1,58 @@
-# Hola, soy Diego 👋
+<h1>👋 Hola, soy Diego</h1>
 
-<br>Soy Ingeniero Comercial especializado en Ciencia de Datos. <br><br>
-[**`Te invito a revisar mis proyectos ⬇️`**](https://github.com/rrdiegoisaac#-proyectos-seleccionados-estoy-en-proceso-de-publicarlos)<br><br>
-🔍 <strong>¿Qué hago?</strong><br><br>**Análisis de Datos:** Utilizo Power BI, Tableau, R y Python para realizar análisis detallados, identificando patrones y tendencias, generando insights para convertir los datos en decisiones.<br>**Machine Learning:** Desarrollo y aplico modelos de aprendizaje automático con TensorFlow, Scikit-learn, PyTorch y XGBoost, para resolver problemas tanto supervisados como no supervisados.<br>**Automatización de Datos:** Implemento soluciones para la extracción y organización eficiente de datos mediante APIs y Web Scraping.<br>**Desarrollo Frontend:** Creo páginas corporativas atractivas y funcionales para representar los insights e interactuar con los datos.<br>
+<p>
+Ingeniero Comercial especializado en <strong>Análisis de Datos</strong>, enfocado en optimizar procesos y transformar datos en decisiones de negocio mediante <strong>SQL</strong>, <strong>Power BI</strong> y <strong>Python</strong>.
+</p>
+
+<p>
+<a href="https://github.com/rrdiegoisaac#-proyectos-seleccionados-estoy-en-proceso-de-publicarlos" target="_blank">
+🚀 <strong>Revisa mis proyectos aquí</strong>
+</a>
+</p>
+
+<hr>
+
+<h3>🔍 Qué hago</h3>
+
+<h4>Gestión y optimización de datos</h4>
+<ul>
+  <li>Diseño, administro y optimizo <strong>bases de datos SQL</strong> integradas con <strong>Power BI</strong>.</li>
+  <li>Desarrollo y mantengo <strong>Stored Procedures</strong>, <strong>Jobs</strong> y <strong>Triggers</strong> para automatizar procesos.</li>
+  <li>Monitoreo y administro servidores, controlando procesos y carga del servidor.</li>
+  <li>Ejecuto consultas <strong>SQL optimizadas</strong> aplicando técnicas de <strong>indexación</strong> y <strong>execution plans</strong>.</li>
+</ul>
+
+<h4>Automatización y análisis</h4>
+<ul>
+  <li>Construyo dashboards interactivos en <strong>Power BI</strong> utilizando <strong>DAX</strong> y <strong>Power Query</strong>.</li>
+  <li>Automatizo flujos con <strong>Python + Selenium</strong>, gestionados mediante <strong>Schedules</strong> e integrados a APIs con <strong>SQLAlchemy</strong>.</li>
+  <li>Extraigo y analizo información desde <strong>SAP</strong> y <strong>Oracle</strong> para soporte analítico corporativo.</li>
+</ul>
+
+<hr>
+
+<h3>Experiencia y logros</h3>
+<ul>
+  <li>Participación activa en <strong>Kaggle</strong>, desarrollando modelos predictivos colaborativos con foco en métricas de rendimiento.</li>
+  <li>Implementación de <strong>modelos de Machine Learning</strong> (regresión, clasificación, clustering, PCA) para análisis de comportamiento y optimización operativa.</li>
+  <li>Diseño de <strong>dashboards</strong> y <strong>KPIs</strong> conectados a múltiples fuentes (<strong>SQL</strong>, <strong>APIs</strong>).</li>
+  <li>Aplicación de <strong>técnicas estadísticas y econométricas</strong> (series temporales, skewness, análisis de encuestas) para proyectos internos y de investigación.</li>
+</ul>
+
+<hr>
+
+<h3>Habilidades técnicas</h3>
+<ul>
+  <li><strong>Lenguajes:</strong> Python, SQL, R</li>
+  <li><strong>Bases de datos:</strong> SQL Server, PostgreSQL, BigQuery</li>
+  <li><strong>Herramientas BI:</strong> Power BI, Dash, Streamlit</li>
+  <li><strong>Machine Learning:</strong> TensorFlow, Scikit-learn, XGBoost</li>
+  <li><strong>Optimización y administración:</strong> T-SQL, Indexación, Execution Plans, SSMS</li>
+  <li><strong>Estadística y análisis:</strong> PCA, regresión, clustering, series temporales</li>
+</ul>
+
+<hr>
+
 
 ## 💻 Tech Stack:
 
@@ -78,7 +128,7 @@
 </p>
 
 
-## 🌟 Proyectos seleccionados (Estoy en proceso de publicarlos)
+## 🌟 Proyectos seleccionados
 
 <table>
   <tr>
