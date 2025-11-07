@@ -1,131 +1,67 @@
-<h1>👋 Hola, soy Diego</h1>
+<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Diego&fontColor=ffffff&desc=Python%20•%20SQL%20•%20PowerBI&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+</p>
+</div>
 
-<p>
-Ingeniero Comercial especializado en <strong>Análisis de Datos</strong>, enfocado en optimizar procesos y transformar datos en decisiones de negocio mediante <strong>SQL</strong>, <strong>Power BI</strong> y <strong>Python</strong>.
+
+
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=48&id=NFQusZJ4neki&format=png" width="24"/> 
+  SQL & DB Optimization ·
+  <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="24"/> 
+  Data Automation (Python) ·
+  <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" width="24"/> 
+  Power BI Dashboards
 </p>
 
-<p>
-<a href="https://github.com/rrdiegoisaac#-proyectos-seleccionados-estoy-en-proceso-de-publicarlos" target="_blank">
-🚀 <strong>Revisa mis proyectos aquí</strong>
-</a>
-</p>
-
-<hr>
-
-<h3>🔍 Qué hago</h3>
-
-<h4>Gestión y optimización de datos</h4>
-<ul>
-  <li>Diseño, administro y optimizo <strong>bases de datos SQL</strong> integradas con <strong>Power BI</strong>.</li>
-  <li>Desarrollo y mantengo <strong>Stored Procedures</strong>, <strong>Jobs</strong> y <strong>Triggers</strong> para automatizar procesos.</li>
-  <li>Monitoreo y administro servidores, controlando procesos y carga del servidor.</li>
-  <li>Ejecuto consultas <strong>SQL optimizadas</strong> aplicando técnicas de <strong>indexación</strong> y <strong>execution plans</strong>.</li>
-</ul>
-
-<h4>Automatización y análisis</h4>
-<ul>
-  <li>Construyo dashboards interactivos en <strong>Power BI</strong> utilizando <strong>DAX</strong> y <strong>Power Query</strong>.</li>
-  <li>Automatizo flujos con <strong>Python + Selenium</strong>, gestionados mediante <strong>Schedules</strong> e integrados a APIs con <strong>SQLAlchemy</strong>.</li>
-  <li>Extraigo y analizo información desde <strong>SAP</strong> y <strong>Oracle</strong> para soporte analítico corporativo.</li>
-</ul>
-
-<hr>
-
-<h3>Experiencia y logros</h3>
-<ul>
-  <li>Participación activa en <strong>Kaggle</strong>, desarrollando modelos predictivos colaborativos con foco en métricas de rendimiento.</li>
-  <li>Implementación de <strong>modelos de Machine Learning</strong> (regresión, clasificación, clustering, PCA) para análisis de comportamiento y optimización operativa.</li>
-  <li>Diseño de <strong>dashboards</strong> y <strong>KPIs</strong> conectados a múltiples fuentes (<strong>SQL</strong>, <strong>APIs</strong>).</li>
-  <li>Aplicación de <strong>técnicas estadísticas y econométricas</strong> (series temporales, skewness, análisis de encuestas) para proyectos internos y de investigación.</li>
-</ul>
-
-<hr>
-
-<h3>Habilidades técnicas</h3>
-<ul>
-  <li><strong>Lenguajes:</strong> Python, SQL, R</li>
-  <li><strong>Bases de datos:</strong> SQL Server, PostgreSQL, BigQuery</li>
-  <li><strong>Herramientas BI:</strong> Power BI, Dash, Streamlit</li>
-  <li><strong>Machine Learning:</strong> TensorFlow, Scikit-learn, XGBoost</li>
-  <li><strong>Optimización y administración:</strong> T-SQL, Indexación, Execution Plans, SSMS</li>
-  <li><strong>Estadística y análisis:</strong> PCA, regresión, clustering, series temporales</li>
-</ul>
-
-<hr>
 
 
-## 💻 Tech Stack:
 
-<p align="left"> 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <!-- R -->
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-  </a> 
-  <!-- Power BI -->
-  <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="powerbi" width="40" height="40"/> 
-  </a> 
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
-  </a> 
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <!-- Plotly -->
-  <a href="https://plotly.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/> 
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <!-- Scikit-Learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <!-- NumPy -->
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <!-- Matplotlib -->
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> 
-  </a>
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/es-cl/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="40" height="40"/> 
-  </a>
-  <!-- Google Cloud -->
-  <a href="https://cloud.google.com/?hl=es" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/> 
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <!-- Streamlit -->
-  <a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" alt="streamlit" width="40" height="40"/> 
-  </a>
-  <!-- Selenium -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-</p>
+
+
+<div align="center">
+
+
+<table>
+  <tr>
+    <th>Área</th>
+    <th>Tecnologías</th>
+  </tr>
+  <tr>
+    <td><b>Data Analysis</b></td>
+    <td>Python • Pandas • Power BI • DAX • SQL</td>
+  </tr>
+  <tr>
+    <td><b>Bases de Datos</b></td>
+    <td>SQL Server • Oracle • BigQuery • MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td>Scikit-learn • XGBoost • TensorFlow</td>
+  </tr>
+  <tr>
+    <td><b>Visualización</b></td>
+    <td>Power BI • Tableau • Dash • Streamlit</td>
+  </tr>
+  <tr>
+    <td><b>Automatización</b></td>
+    <td>Python • Selenium • Schedules • SQLAlchemy</td>
+  </tr>
+  <tr>
+    <td><b>Dev & Cloud</b></td>
+    <td>GitHub • Google Cloud • Obsidian</td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+[![Activty Graph](https://github-readme-activity-graph.vercel.app/graph?username=rrdiegoisaac&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ## 🌟 Proyectos seleccionados
@@ -213,7 +149,33 @@ Ingeniero Comercial especializado en <strong>Análisis de Datos</strong>, enfoca
   </tr>
 </table>
 
+
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=rrdiegoisaac&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=rrdiegoisaac&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=rrdiegoisaac&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rrdiegoisaac&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rrdiegoisaac&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rrdiegoisaac&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+<p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rrdiegoisaac&icon=0&color=0)](https://visitcount.itsvg.in) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rrdiegoisaac)
+
+
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/rrdiegoisaac?style=for-the-badge&color=00bfff&labelColor=0d1117&label=Followers)](https://github.com/rrdiegoisaac?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=rrdiegoisaac&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
