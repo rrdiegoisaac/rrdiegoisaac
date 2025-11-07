@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/?size=48&id=NFQusZJ4neki&format=png" width="24"/> 
   SQL & DB Optimization ·
   <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="24"/> 
-  Data Automation (Python) ·
+  Data Automation ·
   <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" width="24"/> 
   Power BI Dashboards
 </p>
