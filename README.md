@@ -1,6 +1,7 @@
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Diego&fontColor=ffffff&desc=Python%20•%20SQL%20•%20PowerBI&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2b2b2b,100:4b4b4b&text=Hi,%20I'm%20Diego&fontColor=ffffff&desc=Python%20•%20SQL%20•%20PowerBI&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+
 </p>
 </div>
 
@@ -62,10 +63,7 @@
 
 [![Activty Graph](https://github-readme-activity-graph.vercel.app/graph?username=rrdiegoisaac&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e90ff,100:00bfff&text=Proyectos%20Seleccionados&fontColor=ffffff&fontSize=35&fontAlignY=35" alt="Proyectos Seleccionados"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2b2b2b,100:4b4b4b&text=Proyectos%20Seleccionados&fontColor=ffffff&fontSize=35&fontAlignY=35" alt="Proyectos Seleccionados"/>
 
 <details>
   <summary align="center"><strong>Ver proyectos</strong></summary>
@@ -171,4 +169,5 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:4b4b4b&height=120&section=footer"/>
+
