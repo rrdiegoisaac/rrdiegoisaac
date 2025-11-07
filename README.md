@@ -151,19 +151,6 @@
 
 
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=rrdiegoisaac&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=rrdiegoisaac&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=rrdiegoisaac&show_icons=true&count_private=true&theme=default" height="200px">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rrdiegoisaac&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rrdiegoisaac&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rrdiegoisaac&layout=compact&langs_count=8&theme=default" height="200px">
-  </picture>
-<p>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rrdiegoisaac&icon=0&color=0)](https://visitcount.itsvg.in) <br>
