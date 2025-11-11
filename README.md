@@ -25,37 +25,15 @@
 
 <div align="center">
 
+| **Category**                      | **Technologies**                                      |
+| --------------------------------- | ----------------------------------------------        |
+| **Programming & Scripting**       | Python • SQL • DAX                                    |
+| **Data Analysis & Visualization** | Power BI • Pandas • Dash • Streamlit                  |
+| **Databases**                     | SQL Server • Oracle • BigQuery • MongoDB              |
+| **Machine Learning**              | Scikit-learn • PyTorch • TensorFlow                   |
+| **Automation & ETL**              | Python • Selenium • SQLAlchemy • Schedules • Jobs     |
+| **Cloud & Dev Tools**             | GitHub • Google Cloud • Obsidian                      |
 
-<table>
-  <tr>
-    <th>Área</th>
-    <th>Tecnologías</th>
-  </tr>
-  <tr>
-    <td><b>Data Analysis</b></td>
-    <td>Python • Pandas • Power BI • DAX • SQL</td>
-  </tr>
-  <tr>
-    <td><b>Bases de Datos</b></td>
-    <td>SQL Server • Oracle • BigQuery • MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning</b></td>
-    <td>Scikit-learn • XGBoost • TensorFlow</td>
-  </tr>
-  <tr>
-    <td><b>Visualización</b></td>
-    <td>Power BI • Tableau • Dash • Streamlit</td>
-  </tr>
-  <tr>
-    <td><b>Automatización</b></td>
-    <td>Python • Selenium • Schedules • SQLAlchemy</td>
-  </tr>
-  <tr>
-    <td><b>Dev & Cloud</b></td>
-    <td>GitHub • Google Cloud • Obsidian</td>
-  </tr>
-</table>
 
 </div>
 
@@ -65,12 +43,12 @@
 [![Activty Graph](https://github-readme-activity-graph.vercel.app/graph?username=rrdiegoisaac&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0a,100:1a1a1a&text=Proyectos%20Seleccionados&fontColor=ffffff&fontSize=35&fontAlignY=35" alt="Proyectos Seleccionados"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a0a0a,100:1a1a1a&text=Selected%20Projects&fontColor=ffffff&fontSize=35&fontAlignY=35" alt="Selected Projects"/>
 </div>
 
 
 <details>
-  <summary align="center"><strong>Ver proyectos</strong></summary>
+  <summary align="center"><strong>Explore Projects</strong></summary>
   <br>
 
   <table>
