@@ -12,7 +12,7 @@
   <img align="right" src="https://api.daily.dev/devcards/v2/u3eyIQWhoP1JuLHx3LqQM.png?type=default&r=gbk" width="356" alt="Diego Isaac's Dev Card"/>
 </a>
 
-## Data Analyst with experience in **SQL, Python, and Power BI**, focused on **automation and query performance optimization**.<br><br>
+### Data Analyst with experience in **SQL, Python, and Power BI**, focused on **automation and query performance optimization**.<br><br>
 
 Currently dedicated to the **creation and maintenance of KPIs, reports, and automated processes** using
 **Jobs, Schedules, and auto-refresh mechanisms in Power BI Service**, ensuring efficient and reliable data workflows.<br><br>
