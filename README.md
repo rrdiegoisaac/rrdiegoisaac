@@ -8,34 +8,25 @@
 
 
 
+<a href="https://app.daily.dev/rrdiegoisaac">
+  <img align="right" src="https://api.daily.dev/devcards/v2/u3eyIQWhoP1JuLHx3LqQM.png?type=default&r=gbk" width="356" alt="Diego Isaac's Dev Card"/>
+</a>
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=48&id=NFQusZJ4neki&format=png" width="24"/> 
-  SQL & DB Optimization ·
-  <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="24"/> 
-  Data Automation ·
-  <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" width="24"/> 
-  Power BI Dashboards
-</p>
+## Data Analyst with experience in **SQL, Python, and Power BI**, focused on **automation and query performance optimization**.<br><br>
 
+Currently dedicated to the **creation and maintenance of KPIs, reports, and automated processes** using
+**Jobs, Schedules, and auto-refresh mechanisms in Power BI Service**, ensuring efficient and reliable data workflows.<br><br>
 
+Working in the **telecommunications industry**, developing and maintaining<br>
+**Stored Procedures, Jobs, and Triggers** in SQL Server, and building analytical dashboards in Power BI using DAX and Power Query.
+Responsible for **data automation** with Python (Selenium, SQLAlchemy) and task scheduling,<br>
+Integrating data from SQL Server, SAP, and Oracle into unified analytical environments.<br><br>
 
+Actively participating in **Kaggle competitions**, developing predictive models including<br>
+neural networks, decision trees, and clustering to optimize analytical processes.<br><br>
 
-
-
-<div align="center">
-
-| **Category**                      | **Technologies**                                      |
-| --------------------------------- | ----------------------------------------------        |
-| **Programming & Scripting**       | Python • SQL • DAX                                    |
-| **Data Analysis & Visualization** | Power BI • Pandas • Dash • Streamlit                  |
-| **Databases**                     | SQL Server • Oracle • BigQuery • MongoDB              |
-| **Machine Learning**              | Scikit-learn • PyTorch • TensorFlow                   |
-| **Automation & ETL**              | Python • Selenium • SQLAlchemy • Schedules • Jobs     |
-| **Cloud & Dev Tools**             | GitHub • Google Cloud • Obsidian                      |
-
-
-</div>
+Skilled in **data visualization, process automation, and predictive modeling**, with a strong focus
+on efficiency, scalability, and business-oriented analytics.
 
 
 
