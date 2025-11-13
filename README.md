@@ -22,7 +22,7 @@ Working in the **telecommunications industry**, developing and maintaining<br>
 Responsible for **data automation** with Python (Selenium, SQLAlchemy) and task scheduling,<br>
 Integrating data from SQL Server, SAP, and Oracle into unified analytical environments.<br><br>
 
-Actively participating in **Kaggle competitions**, developing predictive models including<br>
+Actively participating in **Kaggle competitions**, developing predictive models including
 neural networks, decision trees, and clustering to optimize analytical processes.<br><br>
 
 Skilled in **data visualization, process automation, and predictive modeling**, with a strong focus
