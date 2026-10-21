@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0a0a,100:1f2a44&text=Diego%20Riquelme&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%26%20Data%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Diego Riquelme · Data Analyst & Data Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0a0a,100:1f2a44&text=Diego%20Riquelme&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Data%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Diego Riquelme · Data Analyst & Data Engineer"/>
 
 **Construyo los pipelines y cuento lo que muestran los datos.**
 
